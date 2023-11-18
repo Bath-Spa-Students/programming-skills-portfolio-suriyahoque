@@ -24,4 +24,4 @@ del guests[0]
 del guests[0]
 
 # Print the list to make sure it's empty
-print("\nList of guests:", guests)
+print( "\nList of guests:", guests)
