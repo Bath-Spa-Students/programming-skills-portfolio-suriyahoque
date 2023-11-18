@@ -1,3 +1,6 @@
 import sys
-print ("python version")
-print (sys.version)
+
+print("Python Version:")
+print(sys.version)
+print("Version Info:")
+print(sys.version_info)
